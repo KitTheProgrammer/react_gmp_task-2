@@ -25,9 +25,18 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "babel-preset-typescript": "^7.0.0-alpha.19",
+    "css-minimizer-webpack-plugin": "^3.4.1",
     "html-webpack-plugin": "^5.5.0",
+    "image-minimizer-webpack-plugin": "^3.2.3",
+    "imagemin": "^8.0.1",
+    "imagemin-gifsicle": "^7.0.0",
+    "imagemin-jpegtran": "^7.0.0",
+    "imagemin-optipng": "^8.0.0",
+    "imagemin-svgo": "^10.0.1",
+    "mini-css-extract-plugin": "^2.6.0",
     "sass": "^1.51.0",
     "sass-loader": "^12.6.0",
+    "svgo": "^2.8.0",
     "ts-loader": "^9.3.0",
     "typescript": "^4.6.4"
   }
